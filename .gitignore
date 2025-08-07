@@ -1,0 +1,19 @@
+# Ignore MkDocs build directory
+site/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Mac OS metadata
+.DS_Store
+
+# Node modules (if using Docusaurus)
+node_modules/
+
+# IDE directories
+.vscode/
+.idea/
